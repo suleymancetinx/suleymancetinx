@@ -59,14 +59,9 @@ I am a **Front-End Developer** and **UI/UX Designer** based in Turkiye. I specia
 
 ---
 
-### 📊 GitHub Stats
+### 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suleymancetinx&show_icons=true&theme=radical&hide_border=true" alt="suleymancetinx's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymancetinx&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<br>
+<br><br>
 
 <div align="center">
   <i>⭐ "Building accessible digital spaces, one line of code at a time."</i>
